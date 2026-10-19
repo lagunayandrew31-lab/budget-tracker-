@@ -33,7 +33,7 @@
     },
     {
       "name": "code_assets",
-      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/code_assets-2.1.0",
+      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/code_assets-1.2.1",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
@@ -177,7 +177,7 @@
     },
     {
       "name": "hooks",
-      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/hooks-2.2.0",
+      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/hooks-2.0.2",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
@@ -291,7 +291,7 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.19.0",
+      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.18.3",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
@@ -303,13 +303,13 @@
     },
     {
       "name": "native_toolchain_c",
-      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/native_toolchain_c-0.19.5",
+      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/native_toolchain_c-0.19.2",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
     {
       "name": "objective_c",
-      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/objective_c-9.6.2",
+      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/objective_c-9.5.0",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
@@ -363,9 +363,9 @@
     },
     {
       "name": "petitparser",
-      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-7.1.0",
+      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-7.0.2",
       "packageUri": "lib/",
-      "languageVersion": "3.13"
+      "languageVersion": "3.8"
     },
     {
       "name": "platform",
@@ -386,12 +386,6 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "process",
-      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/process-5.0.6",
-      "packageUri": "lib/",
-      "languageVersion": "3.5"
-    },
-    {
       "name": "process_run",
       "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/process_run-1.4.1",
       "packageUri": "lib/",
@@ -405,7 +399,7 @@
     },
     {
       "name": "record_use",
-      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/record_use-1.1.1",
+      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/record_use-0.6.0",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
@@ -441,9 +435,9 @@
     },
     {
       "name": "shared_preferences_foundation",
-      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_foundation-2.6.0",
+      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_foundation-2.5.7",
       "packageUri": "lib/",
-      "languageVersion": "3.13"
+      "languageVersion": "3.10"
     },
     {
       "name": "shared_preferences_linux",
@@ -525,7 +519,7 @@
     },
     {
       "name": "sqlite3",
-      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/sqlite3-3.7.1",
+      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/sqlite3-3.5.2",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
@@ -615,7 +609,7 @@
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.4.3",
+      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.4.0",
       "packageUri": "lib/",
       "languageVersion": "3.10"
     },
@@ -645,9 +639,9 @@
     },
     {
       "name": "xml",
-      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/xml-7.1.0",
+      "rootUri": "file:///C:/Users/Andrew/AppData/Local/Pub/Cache/hosted/pub.dev/xml-7.0.1",
       "packageUri": "lib/",
-      "languageVersion": "3.13"
+      "languageVersion": "3.11"
     },
     {
       "name": "yaml",
