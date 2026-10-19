@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["logging|lib/logging.dart","hooks|lib/src/config.dart","hooks|lib/src/encoded_asset.dart","hooks|lib/src/validation.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

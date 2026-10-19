@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/src/dart/element/type.dart","analyzer|lib/src/diagnostic/diagnostic.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["cli_util|lib/src/windows/win32_stdin.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

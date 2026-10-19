@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["boolean_selector|lib/boolean_selector.dart","collection|lib/collection.dart","source_span|lib/source_span.dart","test_api|lib/backend.dart","test_api|lib/scaffolding.dart","test_core|lib/src/runner/compiler_selection.dart","test_core|lib/src/runner/runtime_selection.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

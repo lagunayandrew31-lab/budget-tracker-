@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","package_config|lib/src/constants.dart","package_config|lib/src/errors.dart","package_config|lib/src/package_config_json.dart","package_config|lib/src/util.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["typed_data"],"hasMain":false}

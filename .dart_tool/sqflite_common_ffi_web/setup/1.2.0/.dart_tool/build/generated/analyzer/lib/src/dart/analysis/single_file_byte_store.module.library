@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["_fe_analyzer_shared|lib/src/scanner/characters.dart","analyzer|lib/src/dart/analysis/byte_store.dart","analyzer|lib/src/dart/analysis/fletcher16.dart","meta|lib/meta.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection","io","math","typed_data"],"hasMain":false}

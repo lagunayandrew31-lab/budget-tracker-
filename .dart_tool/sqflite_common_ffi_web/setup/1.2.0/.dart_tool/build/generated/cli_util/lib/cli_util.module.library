@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["meta|lib/meta.dart","path|lib/path.dart","cli_util|lib/src/base_directories.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","io"],"hasMain":false}

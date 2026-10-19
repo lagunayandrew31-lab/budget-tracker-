@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["code_assets|lib/src/code_assets/config.dart","code_assets|lib/src/code_assets/elf_validator.dart","code_assets|lib/src/code_assets/mach_o_validator.dart","code_assets|lib/src/code_assets/portable_executable_validator.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}
